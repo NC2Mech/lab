@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TouristAttractions>
+  <Attraction>
+    <PlaceID>ID001</PlaceID>
+    <Name>Aquaria KLCC</Name>
+    <City>Kuala Lumpur</City>
+    <State>Kuala Lumpur</State>
+    <Description>Marvel at a showcase of marine life from all over the world, including tiger sharks, sea snakes, sea horses, jellyfish, and many more.</Description>
+    <OpeningHours>
+      <Hours>9:00 AM - 9:00 PM</Hours>
+      <WeekendStatus>Open</WeekendStatus>
+    </OpeningHours>
+    <Category>Urban Landmark</Category>
+    <Ticket>Yes</Ticket>
+    <Price>85.00</Price>
+    <Image>images/image1.jpg</Image>
+  </Attraction>
+  
+  <Attraction>
+    <PlaceID>ID002</PlaceID>
+    <Name>ESCAPE Penang</Name>
+    <City>Penang</City>
+    <State>Penang</State>
+    <Description>Thrilling rope obstacle course, a wealth of water slides, including a Guinness World Record holder that takes three whole minutes to descend, plus high-energy rides and games.</Description>
+    <OpeningHours>
+      <Hours>09:00 AM - 05:00 PM</Hours>
+      <WeekendStatus>Open</WeekendStatus>
+    </OpeningHours>
+    <Category>Theme Park</Category>
+    <Ticket>Yes</Ticket>
+    <Price>RM 55.00</Price>
+    <Image>images/image2.jpg</Image>
+  </Attraction>
+  
+  <Attraction>
+    <PlaceID>ID003</PlaceID>
+    <Name>Legoland</Name>
+    <City>Johor Bahru</City>
+    <State>Johor</State>
+    <Description>8 themed areas and over 40 shows, rides and attractions! Build-A-Raft, LEGO &amp; Wave Pool, DUPLO® Splash Safari and many more.</Description>
+    <OpeningHours>
+      <Hours>09:00 AM - 05:00 PM</Hours>
+      <WeekendStatus>Open</WeekendStatus>
+    </OpeningHours>
+    <Category>Water Park</Category>
+    <Ticket>Yes</Ticket>
+    <Price>125.00</Price>
+    <Image>images/image3.jpg</Image>
+  </Attraction>
+  
+  <Attraction>
+    <PlaceID>ID004</PlaceID>
+    <Name>Sunway Lagoon</Name>
+    <City>Kuala Lumpur</City>
+    <State>Kuala Lumpur</State>
+    <Description>Integrated multi-park includes a water park, amusement park, wildlife park, extreme park, scream park and the Nickelodeon Lost Lagoon. Thrill yourself by plummeting down waterslides, bungy jumping, meeting animals, or running for your life in a haunted house.</Description>
+    <OpeningHours>
+      <Hours>09.00 AM - 5:00 PM</Hours>
+      <WeekendStatus>Open</WeekendStatus>
+    </OpeningHours>
+    <Category>Theme Park</Category>
+    <Ticket>Yes</Ticket>
+    <Price>149.00</Price>
+    <Image>images/image4.jpg</Image>
+  </Attraction>
+  
+  <Attraction>
+    <PlaceID>ID005</PlaceID>
+    <Name>Sarawak Cultural Village</Name>
+    <City>Kuching</City>
+    <State>Sarawak</State>
+    <Description>A great place to visit to understand Sarawak culture and people's way of life.</Description>
+    <OpeningHours>
+      <Hours>10:00 AM - 6:00 PM</Hours>
+      <WeekendStatus>Closed</WeekendStatus>
+    </OpeningHours>
+    <Category>Historical</Category>
+    <Ticket>Yes</Ticket>
+    <Price>10.00</Price>
+    <Image>images/image5.jpg</Image>
+  </Attraction>
+  
+  <Attraction>
+    <PlaceID>ID006</PlaceID>
+    <Name>Petronas Twin Towers</Name>
+    <City>Kuala Lumpur</City>
+    <State>Kuala Lumpur</State>
+    <Description>No trip to KL would be complete without a visit to the world's tallest twin towers. The skyscrapers are utterly stunning, particularly when illuminated at night.</Description>
+    <OpeningHours>
+      <Hours>09:00 AM - 05:00 PM</Hours>
+      <WeekendStatus>Open</WeekendStatus>
+    </OpeningHours>
+    <Category>Architectural Buildings</Category>
+    <Ticket>No</Ticket>
+    <Price>0.00</Price>
+    <Image>images/image6.jpg</Image>
+  </Attraction>
+  
+  <Attraction>
+    <PlaceID>ID007</PlaceID>
+    <Name>Langkawi Sky Bridge</Name>
+    <City>Langkawi</City>
+    <State>Kedah</State>
+    <Description>Spectacular views.Beautiful view over the Geopark. The route from the gondola to the Skybridge is not without it. Different levels have to be overcome.</Description>
+    <OpeningHours>
+      <Hours>9:00 AM - 5:30 PM</Hours>
+      <WeekendStatus>Open</WeekendStatus>
+    </OpeningHours>
+    <Category>Bridges</Category>
+    <Ticket>Yes</Ticket>
+    <Price>38.00</Price>
+    <Image>images/image7.jpg</Image>
+  </Attraction>
+  
+  <Attraction>
+    <PlaceID>ID008</PlaceID>
+    <Name>Teluk Chempedak</Name>
+    <City>Kuantan</City>
+    <State>Kuantan</State>
+    <Description>Irradiating iron tower in Paris, one of the most recognizable structures.</Description>
+    <OpeningHours>
+      <Hours>24 Hours</Hours>
+      <WeekendStatus>Open</WeekendStatus>
+    </OpeningHours>
+    <Category>Beaches</Category>
+    <Ticket>No</Ticket>
+    <Price>0.00</Price>
+    <Image>images/image8.jpg</Image>
+  </Attraction>
+  
+  <Attraction>
+    <PlaceID>ID009</PlaceID>
+    <Name>Pasar Besar Siti Khadijah</Name>
+    <City>Kota Bharu</City>
+    <State>Kelantan</State>
+    <Description>Market with 1980s modern brutalist architecture, could be very packed but its filled with products that Kelantan has to offer, stores with different products to be sold, so it could get quite hectic but overall its still a very laid-back market with mostly everything you need, from textiles, to local delicacies and even exotic knifes.</Description>
+    <OpeningHours>
+      <Hours>10:00 AM - 6:00 PM</Hours>
+      <WeekendStatus>Open</WeekendStatus>
+    </OpeningHours>
+    <Category>Markets</Category>
+    <Ticket>No</Ticket>
+    <Price>0.00</Price>
+    <Image>images/image9.jpg</Image>
+  </Attraction>
+  
+  <Attraction>
+    <PlaceID>ID010</PlaceID>
+    <Name>Gua Tempurung</Name>
+    <City>Gopeng</City>
+    <State>Perak</State>
+    <Description>One of the tourist attractions in Malaysia. It's beautiful. In the depth there's a pool. The atmosphere is cold and cold.</Description>
+    <OpeningHours>
+      <Hours>08:30 AM - 5:00 PM</Hours>
+      <WeekendStatus>Open</WeekendStatus>
+    </OpeningHours>
+    <Category>Nature</Category>
+    <Ticket>Yes</Ticket>
+    <Price>20.00</Price>
+    <Image>images/image10.jpg</Image>
+  </Attraction>
+</TouristAttractions>
