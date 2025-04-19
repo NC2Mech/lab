@@ -19,7 +19,7 @@ header {
   background-image: url('banner.jpg');
   background-size: cover;
   background-position: top;
-  padding: 105px 80px;
+  padding: 240px 80px;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
   font-family: "Lobster", Sans-serif;
   
@@ -475,7 +475,7 @@ body
 }
 a{
   position:absolute;
-  bottom:-320%;
+  bottom:-210%;
   left:50%;
   transform: translate(-50%);
   padding: 20px 60px;
@@ -573,7 +573,7 @@ a span:nth-child(4)
   top:0;
   left:0;
   width:2px;
-  height:100%;
+  height:f%;
   background:linear-gradient(to top, #0c002b ,#1779ff);
    animation: animate4 2s linear infinite;
   animation-delay:2s;
